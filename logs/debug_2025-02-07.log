@@ -1,0 +1,15 @@
+2025/02/07 21:32:28 mainde.go:35: === Application Started ===
+2025/02/07 21:32:28 mainde.go:39: Initializing database connection
+2025/02/07 21:32:28 mainde.go:92: Opening database connection
+2025/02/07 21:32:28 mainde.go:95: Database connection failed: sql: unknown driver "sqlite3" (forgotten import?)
+2025/02/07 21:32:28 mainde.go:42: Database initialization failed:sql: unknown driver "sqlite3" (forgotten import?)
+2025/02/07 21:32:32 mainde.go:35: === Application Started ===
+2025/02/07 21:32:32 mainde.go:39: Initializing database connection
+2025/02/07 21:32:32 mainde.go:92: Opening database connection
+2025/02/07 21:32:32 mainde.go:95: Database connection failed: sql: unknown driver "sqlite3" (forgotten import?)
+2025/02/07 21:32:32 mainde.go:42: Database initialization failed:sql: unknown driver "sqlite3" (forgotten import?)
+2025/02/07 21:32:53 main.go:215: === Application Started ===
+2025/02/07 21:32:53 main.go:219: Initializing database connection
+2025/02/07 21:32:53 main.go:272: Opening database connection
+2025/02/07 21:32:53 main.go:275: Database connection failed: sql: unknown driver "sqlite3" (forgotten import?)
+2025/02/07 21:32:53 main.go:222: Database initialization failed:sql: unknown driver "sqlite3" (forgotten import?)

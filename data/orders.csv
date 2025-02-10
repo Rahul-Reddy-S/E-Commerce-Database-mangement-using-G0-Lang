@@ -1,0 +1,11 @@
+id,customer_id,order_date,status
+1,3,2025-02-07,Delivered
+2,1,2025-02-07,Processing
+3,5,2025-02-09,Shipped
+4,3,2025-02-06,Delivered
+5,7,2025-02-06,Delivered
+6,4,2025-02-07,Processing
+7,6,2025-02-05,Delivered
+8,8,2025-02-07,Shipped
+9,10,2025-02-07,Delivered
+10,9,2025-02-06,Delivered
